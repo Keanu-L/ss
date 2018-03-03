@@ -44,7 +44,7 @@
 	- [Detour](https://itunes.apple.com/cn/app/id1260141606)
 	- [SkipWorld](https://itunes.apple.com/cn/app/skipworld/id1183653098)
 	- [Kitsunebi](https://itunes.apple.com/cn/app/id1275446921)
-	- [Banana](https://itunes.apple.com/cn/app/id1234881211)
+	- [BananaNet](https://itunes.apple.com/cn/app/id1234881211)
 	- [SsrConnectPro](https://itunes.apple.com/cn/app/id1272045249)
 	- [Surge Enterprise](https://itunes.apple.com/cn/app/id1249961855)
 	- [寒梅 - Mume Red](https://itunes.apple.com/cn/app/id1256315160)
