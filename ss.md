@@ -41,6 +41,8 @@
 	- [Quantumult](https://itunes.apple.com/cn/app/quantumult/id1252015438)
 	- [Ranger NetworkTool](https://itunes.apple.com/cn/app/ranger-networktool/id1330474376)
 	- [A.BIG.T IV](https://itunes.apple.com/cn/app/a-big-t-iv/id1342485820)
+	- [Postern](https://itunes.apple.com/cn/app/postern/id1352320896)
+	- [ShadowPocket](https://itunes.apple.com/cn/app/shadowpocket/id1354988493)
 	- [SuperWingy](https://itunes.apple.com/cn/app/id1290093815)
 	- [FirstWingy](https://itunes.apple.com/cn/app/firstwingy/id1316416848)
 	- [Detour](https://itunes.apple.com/cn/app/id1260141606)
@@ -98,8 +100,10 @@
 - Linux上的 SS 客户端：
 	- [flora](https://github.com/huacnlee/flora-kit)
 - Android 上的 SS 客户端：
-	- [影梭](https://github.com/shadowsocks/shadowsocks-android/releases)
-	- [ShadowsocksR](https://github.com/shadowsocksrr/shadowsocksr-android/releases)
+	- [Shadowsocks 影梭](https://github.com/shadowsocks/shadowsocks-android/releases)
+	- [Shadowsocks 影梭 Google Play](https://play.google.com/store/apps/details?id=com.github.shadowsocks)
+	- [ShadowsocksR](https://github.com/shadowsocksr-backup/shadowsocksr-android/releases)
+	- [ShadowsocksRR](https://github.com/shadowsocksrr/shadowsocksr-android/releases)
 	- [NetPatch](https://play.google.com/store/apps/details?id=co.netpatch.firewall)
 	- [Postern](https://play.google.com/store/apps/details?id=com.tunnelworkshop.postern)（Postern 支持导入Surge配置）
 
