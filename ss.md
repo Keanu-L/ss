@@ -99,8 +99,6 @@
 	- [SScap](https://sourceforge.net/projects/sscap/)
 	- [SSTap](https://www.sockscap64.com/sstap)
 	- [SocksCap](https://www.sockscap64.com/sockscap-64-free-download/)
-- Linux上的 SS 客户端：
-	- [flora](https://github.com/huacnlee/flora-kit)
 - Android 上的 SS 客户端：
 	- [Shadowsocks 影梭](https://github.com/shadowsocks/shadowsocks-android/releases)
 	- [Shadowsocks 影梭 Google Play](https://play.google.com/store/apps/details?id=com.github.shadowsocks)
@@ -108,6 +106,12 @@
 	- [ShadowsocksRR](https://github.com/shadowsocksrr/shadowsocksr-android/releases)
 	- [NetPatch](https://play.google.com/store/apps/details?id=co.netpatch.firewall)
 	- [Postern](https://play.google.com/store/apps/details?id=com.tunnelworkshop.postern)（Postern 支持导入Surge配置）
+- Linux 上的 SS 客户端：
+	- [Shadowsocks-qt5](https://github.com/shadowsocks/shadowsocks-qt5)
+	- [Avege](https://github.com/avege/avege)
+	- [flora](https://github.com/huacnlee/flora-kit)
+- OpenWRT 上的 SS 客户端：
+	- [OpenWRT-Shadowsocks](https://github.com/shadowsocks/openwrt-shadowsocks)
 
 ### 其他
 &nbsp;&nbsp;&nbsp;&nbsp; iOS 设备上使用SS 客户端也会显示VPN 图标：是因为使用了iOS 系统的VPN Network Extension接口（以及NEPacketTunnelProvider 和NWUDPSession 组件），iOS 9 才开放的此接口，这些新接口让我们可以制作出私密协议的VPN产品，苹果官方称之为Enterprise VPN。正是因为iOS 9 之后开放了这个接口和组件才能有今天iOS 上的各式各样的SS 客户端。<br/>
