@@ -19,7 +19,7 @@
 - Google Cloud 可以免费拿一台VPS 试用一年：<http://51.ruyo.net/p/2144.html>
 - 个人觉得不错的SS 服务商：
 	- [https://ww.rixcloud.com](https://my.rixcloud.com/aff.php?aff=397)
-	- <https://www.boomssx.com>
+	- <https://www.boomssc.com>
 	- <https://duotai.love>
 	- <http://www.dropboxchina.com/ss.html>
 - 免费SS 账号分享（能不能用，能用多久我就不确定了）
