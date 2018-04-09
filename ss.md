@@ -38,7 +38,7 @@
 
 ### 客户端
 
-- iOS 上的 SS 客户端（国区可下载）：
+- iOS 客户端（国区可下载）：
 	- [Surge 3](https://itunes.apple.com/cn/app/surge-3-web-developer-tool/id1329879957)
 	- [Quantumult](https://itunes.apple.com/cn/app/quantumult/id1252015438)
 	- [Ranger NetworkTool](https://itunes.apple.com/cn/app/ranger-networktool/id1330474376)
@@ -54,7 +54,7 @@
 	- [SsrConnectPro](https://itunes.apple.com/cn/app/id1272045249)
 	- [Surge Enterprise](https://itunes.apple.com/cn/app/id1249961855)
 	- [寒梅 - Mume Red](https://itunes.apple.com/cn/app/id1256315160)
-- iOS 上的 SS 客户端（仅国区下架，其他区可下载）：
+- iOS 客户端（仅国区下架，其他区可下载）：
 	- [Surge](https://itunes.apple.com/us/app/surge-web-developer-tool-proxy/id1040100637)
 	- [Shadowrocket](https://itunes.apple.com/us/app/shadowrocket-for-shadowsocks/id932747118?mt=8)
 	- [Wingy](https://itunes.apple.com/us/app/wingy-http-s-socks5-proxy-utility/id1178584911)
@@ -71,13 +71,13 @@
 	- [Mume VPN](https://itunes.apple.com/cn/app/mume-vpn/id1144787928)
 	- [Circuit 捷径](https://itunes.apple.com/us/app/id1115240504)
 	- ......
-- iOS 上的 SS 客户端（全区下架）：
+- iOS 客户端（全区下架）：
 	- [Cross](https://itunes.apple.com/cn/app/cross-proxy-client/id1194595243)
 	- [Take](https://itunes.apple.com/us/app/id1176857712)
 	- [ShadowAgent](https://itunes.apple.com/cn/app/id1187813723)
 	- [LiFi](https://itunes.apple.com/cn/app/lifi-shadowsocks-and-shadowsocksr-vpn-client/id1153372559)
 	- ......
-- Mac 上的 SS 客户端：
+- Mac 客户端：
 	- [Surge for Mac](http://nssurge.com/)
 	- [ShadowsocksX](https://github.com/shadowsocks/shadowsocks-iOS/releases)
 	- [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG/releases/)
@@ -90,7 +90,7 @@
 	- [A.BIG.T](https://itunes.apple.com/cn/app/a-big-t/id1114040100)
 	- [ShadowTunnel](https://itunes.apple.com/cn/app/shadowtunnel-shadowsocks-shadowsocksr-client/id1187938179)
 	- [SsrConnect](https://itunes.apple.com/app/id1217575505)
-- Win 上的 SS 客户端：
+- Win 客户端：
 	- [Shadowsocks](https://github.com/shadowsocks/shadowsocks-windows/releases)
 	- [Shadowsocks 2.3.1](https://github.com/shadowsocks/shadowsocks-windows/releases/tag/2.3.1)（XP 系统可用）
 	- [ShadowsocksR](https://github.com/shadowsocksr-backup/shadowsocksr-csharp/releases)
@@ -99,19 +99,19 @@
 	- [SScap](https://sourceforge.net/projects/sscap/)
 	- [SSTap](https://www.sockscap64.com/sstap)
 	- [SocksCap](https://www.sockscap64.com/sockscap-64-free-download/)
-- Android 上的 SS 客户端：
+- Android 客户端：
 	- [Shadowsocks 影梭](https://github.com/shadowsocks/shadowsocks-android/releases)
 	- [Shadowsocks 影梭 Google Play](https://play.google.com/store/apps/details?id=com.github.shadowsocks)
 	- [ShadowsocksR](https://github.com/shadowsocksr-backup/shadowsocksr-android/releases)
 	- [ShadowsocksRR](https://github.com/shadowsocksrr/shadowsocksr-android/releases)
 	- [NetPatch](https://play.google.com/store/apps/details?id=co.netpatch.firewall)
 	- [Postern](https://play.google.com/store/apps/details?id=com.tunnelworkshop.postern)（Postern 支持导入Surge配置）
-- Linux 上的 SS 客户端：
+- Linux 客户端：
 	- [Shadowsocks-qt5](https://github.com/shadowsocks/shadowsocks-qt5)
 	- [Avege](https://github.com/avege/avege)
 	- [flora](https://github.com/huacnlee/flora-kit)
 	- [electron-ssr](https://github.com/erguotou520/electron-ssr)
-- OpenWRT 上的 SS 客户端：
+- OpenWRT 客户端：
 	- [OpenWRT-Shadowsocks](https://github.com/shadowsocks/openwrt-shadowsocks)
 
 ### 其他
