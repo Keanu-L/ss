@@ -110,6 +110,7 @@
 	- [Shadowsocks-qt5](https://github.com/shadowsocks/shadowsocks-qt5)
 	- [Avege](https://github.com/avege/avege)
 	- [flora](https://github.com/huacnlee/flora-kit)
+	- [electron-ssr](https://github.com/erguotou520/electron-ssr)
 - OpenWRT 上的 SS 客户端：
 	- [OpenWRT-Shadowsocks](https://github.com/shadowsocks/openwrt-shadowsocks)
 
