@@ -26,7 +26,7 @@
 	- <http://www.dropboxchina.com/ss.html>
 - 免费SS 账号分享（能不能用，能用多久我就不确定了）
 	- <https://free-ss.site>
-	- <https://doub.ws/sszhfx/>
+	- <https://doub.ws/sszhfx>
 	- <https://tool.ssrshare.xyz/tool/free_ssr>
 - SSR 免费节点订阅地址（至于节点能不能用我就不知道了，别人分享的）：
 	- <https://raw.githubusercontent.com/ImLaoD/sub/master/ssrshare.com>
