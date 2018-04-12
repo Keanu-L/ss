@@ -84,7 +84,8 @@
 	- [ShadowsocksX](https://github.com/shadowsocks/shadowsocks-iOS/releases)
 	- [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG/releases/)
 	- [ShadowsocksX-NG-R](https://github.com/qinyuhang/ShadowsocksX-NG-R/releases)
-	- [GoAgentX](https://medium.com/@oscargong1995/goagentx-65c4c6141274)
+	- [GoAgentX](https://pan.lanzou.com/i0dskef)
+	- [非官方GoAgentX](https://github.com/mithril-global/GoAgentX)
 	- [Flora](https://github.com/huacnlee/flora-kit)
 	- [Postern](https://itunes.apple.com/us/app/poster/id411445577?mt=12)
 	- [SpechtLite](https://github.com/zhuhaow/SpechtLite/releases)
@@ -110,6 +111,7 @@
 	- [Postern](https://play.google.com/store/apps/details?id=com.tunnelworkshop.postern)（Postern 支持导入Surge配置）
 - Linux 客户端：
 	- [Shadowsocks-qt5](https://github.com/shadowsocks/shadowsocks-qt5)
+	- [ShadowsocksR](ShadowsocksR)
 	- [Avege](https://github.com/avege/avege)
 	- [flora](https://github.com/huacnlee/flora-kit)
 	- [electron-ssr](https://github.com/erguotou520/electron-ssr)
