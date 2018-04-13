@@ -28,9 +28,11 @@
 	- <https://free-ss.site>
 	- <https://doub.ws/sszhfx>
 	- <https://tool.ssrshare.xyz/tool/free_ssr>
+	- <http://share-shadowsocksr.herokuapp.com>
 - SSR 免费节点订阅地址（至于节点能不能用我就不知道了，别人分享的）：
 	- <https://raw.githubusercontent.com/ImLaoD/sub/master/ssrshare.com>
 	- <https://www.ssrshare.xyz/freessr>
+	- <http://share-shadowsocksr.herokuapp.com/subscribe?valid=1>
 
 ### 区别
 &nbsp;&nbsp;&nbsp;&nbsp;VPN 也是传输方式，VPN 默认是全局的（也有少数是可以分流的），开启后所有App 软件都会走代理，而且VPN 的特征值太明显，目前已被G·F·W 干扰。<br/>
