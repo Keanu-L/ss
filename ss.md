@@ -1,4 +1,4 @@
-## SS 简介
+## SS/SSR 简介
 目录
 * 介绍
 * 区别
@@ -17,7 +17,7 @@
 - SSR 维基百科详细介绍：<https://zh.wikipedia.org/wiki/Shadowsocks#ShadowsocksR>
 - 利用AWS 搭建免费Shadowsocks：[http://lichendi.com/2016/06/07/shadowsocks/](http://lichendi.com/2016/06/07/%E5%88%A9%E7%94%A8AWS%E6%90%AD%E5%BB%BA%E5%85%8D%E8%B4%B9shadowsocks/)
 - Google Cloud 可以免费拿一台VPS 试用一年：<http://51.ruyo.net/p/2144.html>
-- 个人觉得不错的SS 服务商：
+- 个人觉得不错的SS/SSR 服务商：
 	- [https://ww.rixcloud.com](https://my.rixcloud.com/aff.php?aff=397)
 	- <https://www.喵帕斯.com>
 	- <https://墙洞.com>
