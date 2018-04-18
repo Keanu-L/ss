@@ -113,7 +113,7 @@
 	- [Postern](https://play.google.com/store/apps/details?id=com.tunnelworkshop.postern)（Postern 支持导入Surge配置）
 - Linux 客户端：
 	- [Shadowsocks-qt5](https://github.com/shadowsocks/shadowsocks-qt5)
-	- [ShadowsocksR](ShadowsocksR)
+	- [ShadowsocksR](https://github.com/ssrbackup/shadowsocksr)
 	- [Avege](https://github.com/avege/avege)
 	- [flora](https://github.com/huacnlee/flora-kit)
 	- [electron-ssr](https://github.com/erguotou520/electron-ssr)
